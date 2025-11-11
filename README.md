@@ -74,4 +74,4 @@ multiplication, and division with a clean UI.
 
 ## 👨‍💻 Author
 
-Developed by *\[Your Name\]* ✨
+Developed by Maaz Abdul Sattar Rakhange ✨
